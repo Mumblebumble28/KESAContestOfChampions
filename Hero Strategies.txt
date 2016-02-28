@@ -1,98 +1,266 @@
 Change log:
 25/02/2016: Added Hulkbuster and remaining Cosmic heroes. Also some updates to other heroes.
 26/02/2016: Added Mutant heroes. Seperated Cyclops and Rocket Raccoon entries as they actually differed enough not to warrant being lumped together.
-28/02/2016: Added Science heroes.
+28/02/2016: Added Science heroes. Added Skill heroes. Added (highly subjective) suitability for different game modes. Updated assumptions.
 
-The below is written with the assumption that the hero in question is duped and the matchup is more or less even.
+The below is written with the assumption that the hero in question is duped and the matchup is more or less even. The recommendations for the different game modes is based on the assumption that you've got a varied (although not necessarily complete) roster. It's also based on my experience and playstyle. Although, Alliance Quest recommendations are extrapolations due to the fact that there's no place to test it and no one wants to enter an AQ with below par heroes if it can be helped. If the non-recommended heroes happen to be your strongest, and you can make it work, great stuff. There's generally a lot of variables that go into the usefulness of a particular hero for AQ, but I'm trying to keep it short and simple. If you disagree with a particular recommendation or you've got some questions about it, you're more than welcome to ask for an explanation. Finally, I did not take synergies into account for these recommendations, so keep that in mind. My own roster is still limited so I usually just take my strongest heroes for the paths I plan on taking and they generally don't synergise.
 
-Hawkeye: use/spam S1 if you're concerned about opponent S2/3. Also bleeds and hemorrages fairly often. Otherwise, S2 if you want proper bleed or S3 for damage
+Hawkeye: use/spam S1 if you're concerned about opponent S2/3. Also bleeds and hemorrages fairly often. Otherwise, S2 if you want proper bleed or S3 for damage.
+  Quests: Useful
+  Arena: Very useful, but weigh up potential regen from bleed vs power drain
+  Alliance Quest: Quite useful I'd assume, especially with power drain
 
-Vision(s): S2 all the way, unless you're getting it blocked frequently. Then resort to S3
+Vision(s): S2 all the way, unless you're getting it blocked frequently. Then resort to S3. Also great against armoured opponents.
+  Quests: Useful
+  Arena: Very useful
+  Alliance Quests: Not as useful I'd imagine, as he can only regen from a few statusus, and a lot of the bosses are Cosmics which puts                     him at a disadvantage. Can power drain/burn though, which always helps avoid S3's
 
-Starlord: build combos as big as you can as his damage increases for each multiple of 10. Then S2 is very good, S3 is nice, S1 is for desperate times
+Starlord: build combos as big as you can as his damage increases for each multiple of 10. His chance of perfect blocking also increases for every 10 hits blocked. Then S2 is very good, S3 is nice, S1 is for desperate times
+  Quests: Useful
+  Arena: Useful
+  Alliance Quests: Useful, but frequently at a disadvantage
 
-Rocket Raccoon: build combos as Rocket crits much more frequently the higher your combo goes. I usually use S2/3 on Rocket as they do big damage, with S2 conferring bleed and armour break. I haven't seen a lot of heroes survive an S3, but I think it also confers bleed and armour break.
+Rocket Raccoon: build combos as Rocket crits much more frequently the higher your combo goes. I usually use S2/3 on Rocket as they do big damage, with S2 conferring bleed and armour break. I haven't seen a lot of heroes survive an S3, but I think it also confers bleed and armour break. Based on his health pool, he seems to be the Tech glass cannon.
+  Quests: Useful
+  Arena: Very useful
+  Alliance Quests: Useful, provided you can avoid getting hit. Otherwise he suffers from the same disadvantage as other Tech champions
 
 Gamora: Use S2. Bleed is good and has 2 chances to trigger assassination. S3 damage is crap if bleed doesn't trigger, which it doesn't do that often (in my experience). She hits/crits insanely hard on higher levels, but can't take a lot of big hits. The Cosmic glass cannon.
+  Quests: Useful as long as she's at least only a few levels below the overall quest requirement
+  Arena: Very useful
+  Alliance Quest: Not very useful as she's too fragile
 
 Magik: I've only got her as a 2*, but from my experience she is useless. Low damage for attacks. Power burn (S1) doesn't burn a lot, power steal (S2) doesn't steal a lot although it locks power bar. S3 is adequate. Rewind is too unpredictable to be reliably useful. When fighting against her, be wary of trying to finish her off with a single big hit (eg. Colossus). 8 times out of 10 the AI will get that rewound. Only thing she is apparently good for is eye candy - if digital art is your thing...
+  Quests: Useless, unless she's your strongest hero from your highest tier (poor you) - a situation that won't last long
+  Arena: Better than nothing, but don't expect fireworks
+  Alliance Quest: There are better Mystic champs to pick if you must take a Mystic - even then I'd rather consider a lower tier one.
 
 Hulk: Let the puny humans hit you a bit. You'll smash them all the harder for it. S1 is for desperate situations as it's easily evadable and sets you up for punishment. S2 is surprisingly strong, but has limited range. Good for a fast surprise against a charging opponent. S3 is da bomb. If your Hulk is duped enough and you've taken a pounding, this (S3) equals the playing field if it doesn't KO your opponent. Hulk also doesn't convey status effects, so willpower is of little worth as player or opponent
+  Quests: Useful
+  Arena: Devastating
+  Alliance Quest: Very useful, as he gets stronger the further you progress (although he comes closer to dying too he'll pack more                      punch than any other champ in a similar situation)
 
 (Superior) Ironman: You can be a bit reckless with IM as he's got a bit of regen once his life drops low enough. Just be careful as a big enough hit can kill him off before the regen triggers. S1 isn't worth it, S2 slightly more worth it. S3 is where it's at with IM. Also, Superior IM seems to stack armor more so than his original counterpart.
+  Quests: Useful
+  Arenas: Very useful due to Arc Overload
+  Alliance Quest: Depends on class, but has limited use due to the fact that Arc Overload only triggers once per AQ (from what I've                     seen)
 
 Ultron: Ultron is set up to cause bleeds and then cauterise it (with S1), stopping the bleed but doing additional damage based on life lost during/due to the bleed. That sounds fantastic, but is a mission to manage properly. It also doesn't work against a hero using willpower as the regen is generally greater than the bleed, so at most you'll be halting regen. You might also give a regen boost if the game resolves negative bleed damage... S1 and S2 are very blockable, so use S3 for very good damage. Also, Ultron heals at certain points on his life bar, which can be boosted with Salve (I think).
-
+  Quests: Very useful
+  Arenas: Very useful
+  Alliance Quest: Useful despite disadvantage due to regen and bleed effects
+  
 Warmachine: Never use S1. It's blockable. If it hits, it causes an insignificant amount of bleed. This is bad because it takes longer to get to the good specials, and you'll be doing a guy with willpower a huge favour. That leaves S2 and S3. S2 is also blockable, but there is a slight delay at the end before a missile gets launched. This causes good damage and armour break (not sure about bleed), but is generally not worth it as you're missing out on S3. S3 by far his best move. If Empty Your Clip triggers go all out as it gives good armour and fury stacks. In fact, if you see you're low on health, save up for S3 for when it triggers. Hopefully the boost in damage is enough to KO your opponent.
+  Quests: Ok
+  Arenas: Useful, but be wary of causing bleed or armour break
+  Alliance Quest: Not that great, especially as he's Tech
 
 Iron Patriot: I don't have this champ, but from what I can determine from fighting against him, S3 is the way to go. S1 and S2 are easy to block/evade. I'm not sure if S2 damages him as well a la Black Bolt, but it's slow and telegraphed. Near death he gets life regen for a bit, but suffers from permanent armor break afterwards. As I don't have this champion, I'm not sure if this will trigger Willpower. I saw a similar-looking status inflicted by one of the deadpooloids on my heroes trigger it, so it might happen...
+  Quests: N/A
+  Arena: Best use I think
+  Alliance Quest: You're taking a chance I think
 
 Iron Fist: IF used to be one of my favourite champs, until they messed with his fighting style. The introduction of willpower has also made his life very difficult, especially when he's duped and handing out stacks of armour break. He's the Mystic glass cannon, (potentially) able to deliver big hits, but not able to take a lot of hits. It's a toss up between S2 and S3. If you're able to land S2 regularly, go with that as the damage and crit potential is good, especially if the (non-willpower) hero already has a stack of armour break. S3 is unblockable (obviously), but I find the damage to be less impressive than the animation/lore makes it out to be. Granted, IF relies on armour break to significantly enhance his damage output - as long as willpower is not involved. If the opponent has willpower, it's going to be a long, hard fight. The Mystic glass cannon.
+  Quests: Very good, provided you don't take too much punishment
+  Arenas: Good to average depending on the prevalence of Willpower
+  Alliance Quest: Useless - too fragile
 
 Juggernaut: Juggernaut starts fights unstoppable, even if he isn't duped. Use that to your advantage to get a couple of early hits in. From there you've got two options. 1) build up to S3, unleash it and finish the opponent off while unstoppable, or 2) use S1/S2 constantly (even if it gets blocked) and make use of unstoppable status. While unstoppable, just keep hitting with heavy attacks if your opponent blocks and/or is stuck in the corner. Also, he caused the Staggered status, which effectively nullifies the next positive buff a hero would receive. From what I've noticed, it doesn't trigger Willpower.
+  Quests: Good
+  Arenas: Solid
+  Alliance Quest: I reckon he's quite useful. Especially against the Cosmic bosses.
 
 Unstoppable Colossus: See Juggernaut. However, Colossus is generally quicker than Juggernaut, and his S3 deals increased damage based on his armour. So save it until you get an armour buff. Don't use it when you're debuffed with armour break. I don't think UC can stack more than one armour buff at a time. Otherwise spam any Special and make hay during Unstoppable. If you time it right, you can chain up to 3 unstoppable S1's in succession!
+  Quests: Good
+  Arenas: Amazing
+  Alliance Quests: Useful as a tank and against Cosmic bosses.
 
 Scarlet Witch: Just hit away and hope your crits trigger effects. Or let your opponent hit you and trigger them. The latter's not ideal, but at least you might get something out of being smacked around. There is a chance that power drain triggers, emptying both champs' power bars. Other than that, the worst that can happen is you give your opponent an armour buff. If you're not overly concerned about status effects, S2 can cause very good damage as it seems to crit frequently, although it is blockable. S3 gives 10 hits for good damage and nullifies 1 positive status afterwards. S1 is meh.
+  Quests: Very useful
+  Arenas: Very useful, even against Willpower
+  Alliance Quest: Useful, especially with Cosmic bosses and the ability to regen.
 
 Dr Strange: Probably the most sought after hero times two (getting him and then duping him). Unlike other heroes, his power bar fills gradually, independent of taking or doing damage. His specials also tend to cause Fate Sealed, which prevents positive buffs being triggered (but does not prevent regen from willpower). S1 hits for ok damage and can be spammed fairly regularly. S2 also hits hard and can cause multiple armour breaks. S3 hits like a tank. The good Dr also cycles through 3 different buffs every couple of seconds (armour, fury, life steal, in that order). Keep this in mind when attacking, as you'll take less damage at first, then deal more damage (especially with specials) and then gain a portion of your damage back as life. Duped Drs also obtain any positive buffs their opponents gain. At least, that's my understanding - my Dr isn't duped.
+  Quests: Useful
+  Arenas: Good
+  Alliance Quests: The best, apparently
 
 Guillotine: Guillotine is fast and bleeds people out. The more life you cause the opponent to lose, the more souls you gain. These souls power up her S3 which is her best attack when not facing regen heroes. The souls decrease the longer the fight lasts though. Her S2 also reverses health regen - the ideal counter to willpower players. It's blockable though, so make sure to land it. Her S1 isn't really worth it as her normal attacks also cause bleed. Not sure what her signature ability does as I don't have her duped.
+  Quests: Useful
+  Arenas: Very good
+  Alliance Quest: Presumably useful due to advantage over Cosmic bosses.
 
 Lady Thor: Don't have her and haven't fought her enough to have a good impression of her abilities.
+  Quests: N/A
+  Arenas: N/A
+  Alliance Quest: N/A
 
 Drax: Ever since Drax got his knives he's become a beast. The bleed he causes, coupled with the stacks of fury makes him a relentless presence (unless you're fighting Hulkbuster). Just slice away at your opponent and use S2/S3 as the opportunities arise. S1 is an easily avoidable/blockable attack that can leave you open for punishment. More importantly, it doesn't add bleed. S2 is a guaranteed bleed (I think), provided you can land the attack. Otherwise just build up to S3. You'll only need to do this twice as most fights will be over before then.
+  Quests: Very useful
+  Arenas: Very useful as his attacks seem to out-damage the regen his occasional bleed causes. The bleed in itself keeps the regen in           check.
+  Alliance Quest: Very useful
 
 Thor: Thor is a tank. And a quick one. His basic attacks aren't the most damaging of attacks, nor do they crit often, but that's not what he's about. Thor is all about Mjolnir. Forget about S1, it's limited range, so easily avoidable. It's got a longish trigger animation so it can be spotted a mile away and thus easily blocked or evaded (and punished). S2 is a quick hit that resembles his basic attacks. If it hits it dazes the opponent and sets them up for a hammer toss to the face, often stunning and armor breaking. If it misses, the opponent might not realise it's a special and not block the hammer in time. This is especially useful when in close combat or as the opponent dashes in. S3 is what'll decide the match more often than not. I've seen it end matches where the victim had 1/2 to 2/3 health left. It either outright KOd them or left them stunned and armor broken and ready to be dropped.
+  Quests: Useful
+  Arenas: Useful
+  Alliance Quest: Probably useful due to Armour Break and Stun
 
 Black Bolt: I'm not an expert on Black Bolt by any stretch of the imagination. I don't like his S1 as the stun is unreliable and it gets telegraphed, making it easily blockable. While his signature can be pretty powerful, it does rely on him being hit a lot & hoping for a trigger. I've seen his S2 deal crazy damage, as well as cause stun, but up until now I've been loathe to use moves that hurt my champion as well, as I feel I never know when that health might make the difference between winning or losing. Also, if your opponent blocks the move, you've lost health and you are going to be punished severely! So, my recommendation is to stick to S3, which does good damage and stuns most of the time. Although, for a guy that can destroy worlds with a whisper, I feel that move should do just a teensy bit more damage. If you're a conservative player, go the S3 route. If your playstyle is more aggressive, S2 is also viable.
+  Quests: Useful
+  Arenas: Quite potent
+  Alliance Quest: You can probably do better
 
 Ronan: Ronan is simply a weaker reskin of Thor. Only major difference is their signatures. Ronan does more damage for each status symbol the opponent has. At low levels this doesn't make that big of a difference, as the additional damage is single digits. I also don't have a 4-star Ronan and my 3-star Ronan isn't highly leveled or duped at all. So the best I can offer is do the same you would with Thor, but lower your expectations.
+  Quests: Use Thor
+  Arenas: Better than nothing
+  Alliance Quest: Use Thor or another Cosmic
 
 Ms Marvel & Captain Marvel: Right, so I had to go hunting for info on the exact differences between these two identical champions. Ms Marvel's attacks do more damage with each Fury stack and it lasts longer than Captain Marvel's. Their signatures also differ slightly in the sense that both Marvels' attack power increases as her power bar fills. However, Captain Marvel is able to absorb magical attacks and add them as additional power to her power bar. Ms Marvel does the same, but for Energy attacks. The other difference is with S1, where Ms Marvel's attack ignores Armor and Resistances. Not that this matters, because ideally, you won't be using either's Specials. That way you can drastically up your damage output and simply leave S3 as a guaranteed finisher when the time is right.
+  Quests: Useful
+  Arenas: Quite good
+  Alliance Quest: Dicey, as you'll probably not want to use specials, which means fights last longer, increasing the potential to take                   damage. 
 
 Groot: I need to play with Groot some more to get a better understanding of his abilities. My current strategy is just to keep on hitting opponents and do S3 to kill them off. I haven't found his S2 regen to be phenomenal, and the S1 has limited range.
+  Quests: Useful
+  Arenas: Useful
+  Alliance Quest: Probably not bad, but you've probably also got access to better Cosmic picks anyway.
 
 Symbiote Spider-Man: Basically just a Cosmic version of Spider-Man. Evades like crazy and hits like a truck. His S1 has range and can cause stacks of armor break and/or weakness, as well as putting you right next to your opponent. This is great if you hit. But if your attack got blocked, you're likely going to be in for a world of pain (unless Evade kicks in). If you've fought a duped Spidey before, especially at higher levels, you'll know how frustrating Evade can get, as well as how hard Spidey can counter-attack once he's evaded and you're still busy trying to finish your combo. Unfortunately, against an opponent using willpower, if this attack hits and stacks debuffs, your opponent will likely be blocking for a bit as his health bar fills up at pace. So use it at your peril. S2 is a variably strong attack, as it always crits. I've seen it take off a chunk of health, even when blocking (although, armor break might also have been in effect at the time). This attack generally packs a whallop, but is slow-ish to initiate and can be dodged completely. S3 is where the money's at, especially if the opponent already suffers from armor break. But what about willpower, you say? Heavy attack, followed up immediately by S3 (opponent doesn't even need to get up off the floor). Heavy attack is a guaranteed armor break and the immediate S3 will minimise the health regained from the debuffed status.
+  Quests: Very useful
+  Arenas: Dangerous
+  Alliance Quest: Useful I guess, if you haven't got better Cosmics
 
 Venom: Venom is a monster! Admittedly I haven't played with him much, so this is all just from fighting him in Alliance Quests and the Venom Event Quest (admittedly he gets ridiculously buffed in these instances, but that's not the point). At first glance Venom looks like one of the big, slow guys. That's his biggest asset: he's as quick as Spider-Man, despite his size. So his attacks chain together quickly, despite looking as if you'll have a gap to retaliate between attacks. His Specials all do decent damage (I've never seen his S3 in action), are semi-ranged and take quite a while to get used to their rhythm. I'll update this portion once I've had some practice with him.
+  Quests: Very useful
+  Arenas: Very useful I'd presume
+  Alliance Quest: No idea here, it's hard to look past the boss' performance when I've got so little experience playing him.
 
 Venompool: Don't have him yet, so no comment for now.
+  Quests: N/A
+  Arenas: N/A
+  Alliance Quest: N/A
 
 Hulkbuster: Hulkbuster is another big, cumbersome champ at first glance. But he's also deceptively quick. He loves fighting Fury-based heroes as he gets an armor boost for each of their Fury stacks. Also, the more health he loses, the higher his armor becomes. Unfortunately, his S1 and S2 both give armor break, which is one of the best debuffs for Willpower users, especially when stacked. If you realise the opponent does not have Willpower, use S2 and hit away. Otherwise, S3 does very good damage and can finish quite a few heroes off if they're at approximately 30% life or less.
+  Quests: Useful
+  Arenas: Very useful
+  Alliance Quest: Solid for a Tech I'd wager, if you're going to target the Mutant nodes.
 
 Colossus: See Unstoppable Colossus. The main difference is that Colossus is classed as a Mutant and his signature allows for multiple stacks of the armour buff. This in turn means that his S3 can become ridiculously powerful as it is based off of his current armour value. If you're ever lucky enough to have a ready S3 and around 5 stacks of armour, there would probably be very few heroes capable of surviving that hit. Some other things to note. S1 is a drop kick that is blockable/dodgeable, so only use in desperation. S2 can deal very nice damage, but is also easily blockable/dodgeable if there is any amount of space between you and your opponent. So I'd advise to mainly focus on obtaining S3. Also, Colossus is one of the most intimidating tanks in the game. He's immune to the most reliable way of taking down tanks (bleed). At the same time, he's not ideal for people who play with Willpower, as he seems to have a hard time being afflicted by debuffs (in my experience). He also doesn't grant any debuffs on his own, so what you see is what you get.
+  Quests: Useful
+  Arenas: Scary
+  Alliance Quest: Very useful
 
 Deadpool (Original & X-Force): As I don't plan on spending any money on the game, I'll probably never own Original Deadpool. So this is based on fighting against him and some extrapolation from X-Force Deadpool. Duped Deadpool with Salve is a regen machine that probably only needs to fear Guillotine's S2. His S1 cartwheeling punch is crap because you'll only hit an opponent with that 1/100 times. S2 does okay bleed damage for a S2, but it is blockable and somewhat easy to spot, so use at your own discretion. S3 is generally the way to go, as the bleed is on par with Gamora's S3 bleed (which is insane), but is guaranteed to trigger. X-Force Deadpool has the same skills and basically works in the same way, with one big exception. X-Force Deadpool doesn't regenerate. Instead, all his attacks inflict bleed on every hit. Not a lot, but it adds up at the end of the day. Unless you're facing someone with Willpower. Then you either get comfy because it's going to be a loooong fight (assuming you don't get hit often or hard), or you just save yourself the time and frustration and forfeit the match. If you do end up in such a match and opt to try and win it, I would suggest blocking and hitting with S3, while doing the minimum basic attacks. Even S2 isn't strong enough to counter the regen if you figure in what your opponent regains from all the attacks before S2 is available. Or, you know, don't use duped X-Force Deadpool in Arenas... Oh, once he drops below a certain health threshold, X-Force Deadpool gains a once-off power boost. Yay!
+  Quests: Very useful (both)
+  Arenas: Solid (Original) / Good to lacklustre (X-Force)
+  Alliance Quest: Very useful
 
 Cyclops (Marvel Now & Classic): The only difference between the two versions is that the Classic Cyclops gains power faster at lower levels than Marvel Now Cyclops. So you'll be able to use S1/S2 more frequently, or get to S3 faster than usual. Otherwise you'll want to focus on building combos. Once you hit a combo of 15+, Cyclops' specials don't suffer from damage reduction due to blocking. Which means you don't have to wait for your S3 as your other specials are effectively unblockable. So, if you can avoid getting hit, spam whichever special you like. S1 is a single hit beam that can cause armor break. S2 is a couple of hits, along with a beam attack that hits multiple times and can cause a stack of armour break. S3 also causes armour break after the attack, if the opponent survives it. Cyclops also has a chance to boost his critical hit percentage when/after using specials.
+  Quests: Ok, but there are better options
+  Arenas: Useful if you can maintain combos, otherwise ordinary
+  Alliance Quest: Forgettable
 
 Magneto (Original & Marvel Now): I only recently obtained both Magnetos, so this is once more mostly from having fought them. The only difference between the two is in the workings of their, admittedly similar, signatures. Original Magneto basically caps the amount of damage he can receive from a single hit. Marvel Now Magneto does the same, but only once his health falls to a really low level. Both also have a passive ability that impacts on any hero with metal in their make-up, either as part of their costume or arsenal. It's subtle, but it affects the accuracy of these heroes' specials. I've seen a Vision S2 have no effect, despite landing an unblocked attack. Then again, other times Iron Man has managed to land all his specials. So it's unclear whether it lowers the damage when not causing a miss, or simply provides a chance to miss entirely. This "debuff" does not trigger Willpower however. Magneto's S1 and S2 aren't great, in the sense that they have a long activation. This means they're highly blockable, with the S2 also being evadeable. On the other hand, S2 is guaranteed to cause Heal Block and oftentimes bleed as well, making heroes relying on regen's lives uncomfortable. S3 does the same, but can also add armour break, and is obviously unblockable. I'll use S2 when things get desperate and I might not survive long enough to throw S3 or the opponent has so little health left that he'll be KO'd even if he blocks the S2. Mostly I'll just save up for S3 though. Ends up being a lot less hassle.
+  Quests: Useful
+  Arenas: Useful
+  Alliance Quest: Useful
 
 Storm: Say hello to the Mutant glass cannon. Storm is fast, hits relatively hard and seems to crit more often than most heroes. Her punch comes in the form of her specials though. All her specials have a chance to stun. Her stuns also last agonisingly long (if you're on the receiving end), allowing her to finish opponents off after landing a successful special. When fighting Storm, whatever you do, DO NOT let her reach S3. You will most likely lose the match the moment it activates, especially if you're also close to your S3, even when at 75% health! In addition to the stun, her specials also have a chance to debuff you with Shock, a DoT (damage over time) effect that ignores resistances, but not armour. This doesn't mean much if the victim has access to Willpower though, as the two seem to cancel one another out. While her S1 and S2 specials can also stun and shock, they have a long lead time and are easy to block. In addition to this, they have limited range, so they're easy to avoid as well. There is also some downtime after the attack, meaning that if it whiffed, your opponent will close in and punish you. S3 is your safest (and best) bet. In case it's not clear what her signature does, it boosts the guaranteed critical damage of your special attack for each point of power the opponent has stored up. So the ideal time to launch a S3 would be just as your opponent gains access to his S3. That'll do max damage and hopefully allow you to finish him off before he can hit you with his S3. Conversely using a special on an opponent with an empty power bar is generally a wasted opportunity.
+  Quests: Useful
+  Arenas: Scary
+  Alliance Quest: Too fragile
 
 Wolverine: In his current iteration, Wolverine is the Wolverine we all know and love. Gone are the days when his regen only maybe triggered when he got critically hit. Or rather, when it took 20 crits for your regen to trigger, but the AI regen triggered when you coughed in his direction. Anyhow, now Wolverine has no reason to hold back as his regen can trigger on being hit or him hitting his opponent. The regen seems to be stronger based on how much power Wolverine has stored up at the time. His attacks also have a chance to cause bleed, which is somewhat problematic against people with Willpower, but this is something most of the bleeders will suffer from. His signature basically allows him to stack regen buffs, which, along with Salve, can keep him alive for a good long time. For obvious reasons all his specials have a chance to cause bleed, although the chance and total damage increases with each special, with S1 doing the least and S3 the most. Both S1 and S2 have limited range, but they trigger fast, so, if you are close enough, your opponent might not have enough time to react before you hit him. I'm not really good enough to pull this off reliably, so I simply save up for S3 and go for the unblockable attack.
+  Quests: Very useful
+  Arenas: Loses potency as arena progresses
+  Alliance Quest: Very useful due to regen
 
 Old Man Logan: I don't have this hero, and haven't seen him in action much, despite having to fight him during the various event quests. From his bio it seems there's a lot to keep track of, but it appears to be variations on Wolverine's bleed and regen, with a bit of Fury thrown in. I'll expand on this if and when I get some play time with him under my belt.
+  Quests: N/A
+  Arena: N/A
+  Alliance Quest: N/A
 
 Abomination: Similar to Ronan and Thor, Abomination is a reskin of Hulk (which almost makes sense thematically). The big difference (other than in choice of beauty products) is the signature. Where Hulk gets angry and smashes harder, Abomination has a chance to poison opponents. The poison doesn't trigger that often (in my experience) and can stack. However, as grand as this sounds, it is often a drawback against Willpower wielding foes. Thus, follow the same strategy as you would for Hulk above, without relying on the signature for help.
+  Quests: Use Hulk
+  Arenas: Decent
+  Alliance Quest: Decent, but there are better choices available
 
 Ant-Man: In the hands of a sneaky AI, Ant-Man can be a pain to fight against. Unless you're using Willpower. Then it's just exasparating. Ant-Man can stack weakness when he attacks, which reduces opponents' chances to crit. Coupled that with a signature that effectively also prevents crits from happening, and Ant-Man's pretty durable. However, weakness doesn't harm an opponent, and if he's got Willpower and Salve even close to maxed, you're gonna have a bad time. As in you can throw in a 100 hits and if you're lucky your opponent might have only 75% life remaining. His S1 isn't spectacular damage wise, and quite easy to block/evade. S2 can be useful, especially when fighting against Willpower. A swarm of ants hits the opponent and exchanges the stacks of weakness for poison. This is only useful in the sense that it lowers the regen caused by Willpower, but probably doesn't negate it. That basically leaves S3. So gun for it and use it. Or don't use Ant-Man in the advanced stages of the Arenas.
+  Quests: Very useful
+  Arenas: Loses potency as arena progresses
+  Alliance Quest: Probably useful, but also better choices available
 
 Captain America (Original & WW2): Cap has a shield, so as you can imagine, he's rather good at blocking. In fact, he probably has the best chances of non-synergised perfect block in the game. From what I can tell there's only really two differences between the two versions of Cap. The signature for Original Cap increases his chances to perfect block based on lost/remaining health. For WW2 Cap perfect block chance increases with each buff on the opponent. The other difference is their S2's. Original Cap's has a chance to Stun, whereas WW2 Cap's is guaranteed to cause some good bleed damage. This probably is also what will determine your strategy. If you're playing WW2 Cap, use his S2 if you're after some DoT, or otherwise stick to S3. All of Original Cap's specials have a chance to stun, so I'd advise using whatever you think you can pull off successfully most often. In my case this would be S3. Never use S1 for either Cap unless you're desperate or any connection will KO the opponent. 
+  Quests: Strong
+  Arenas: Strong
+  Alliance Quest: Strong
 
 Electro: I don't have an Electro, but I'm guessing that he'll fit the bill for the Science glass cannon. From fighting him I can tell that he doesn't mind getting hit, as he reflects a portion of that damage back at the attacker. I've never seen his S3 trigger, so I don't know what it does or how well it does it. What I do know is that his signature makes him very dangerous. He ups his crit rate and damage the greater the sum of both players' power is. So, similar to the Marvels (Ms & Capt), I probably wouldn't use specials unless they're guaranteed to hit (mostly S3 then) or would KO the opponent even if blocked. Electro is probably one of the few champs better suited to Arenas than Quests, due to his tendency to want to get hit.
+  Quests: Not ideal
+  Arenas: 50/50
+  Alliance Quest: Useless
 
-Joe Fixit: A very un-Hulky Hulk. I generally get nervous when fighting a Hulk, however, I can't say the same for fighting Joe. His S1 is generally a nice tonic, applying a stack of almost no bleed that allows any Willpower player to heal up instantly. So, don't use it. S2 is kinda vague to me at the moment, which of itself should tell you I don't find it particularly useful. S3 is only marginally better. Again he's not the Big Green Machine, so he's not going to pulverize the opponent. He does give it a good whack with his tommy gun though. Finally, his signature grants him random buffs after each heavy attack. So if you see one that you find useful, do not use a heavy attack again!
+Joe Fixit: A very un-Hulky Hulk. I generally get nervous when fighting a Hulk, however, I can't say the same for fighting Joe. His S1 is generally a nice tonic, applying a stack of almost no bleed that allows any Willpower player to heal up instantly. So, don't use it. S2 is kinda vague to me at the moment, which of itself should tell you I don't find it particularly useful. S3 is only marginally better. Again he's not the Big Green Machine, so he's not going to pulverize the opponent. He does give them a good whack with his tommy gun though. Finally, his signature grants him random buffs after each heavy attack. So if you see one that you find useful, do not use a heavy attack again!
+  Quests: Useful, but better options exist
+  Arenas: Potentially quite useful if you avoid using S1
+  Alliance Quest: Moderately useful as better options exist
 
 Luke Cage: Don't have him and haven't fought him enough to determine what works and what doesn't.
+  Quests: N/A
+  Arenas: N/A
+  Alliance Quest: N/A
 
 Rhino: Rhino is probably the most boring hero, as he's got nothing special to play around with. His signature simply boosts his armour. This in itself isn't bad as it makes him hard to KO. However, he's a bit slow. Just get to S3 as quickly as possible to try and end the fight as soon as possible.
+  Quests: Probably useful if not boring
+  Arenas: Tough, but usually a joyless fight
+  Alliance Quest: Not worth it
 
 Spider-Gwen: Don't have her and haven't played her enough to have an idea about her abilities.
+  Quests: N/A
+  Arenas: N/A
+  Alliance Quest: N/A
 
 Spider-Man: See Symbiote Spider-Man above.
+  Quests: Useful
+  Arenas: Useful
+  Alliance Quest: Quite potent due to evade and critical hit. One of the better Science options.
 
 Spider-Man Morales: I also don't have this hero, so I'm afraid I don't have much of use to add here.
+  Quests: N/A
+  Arenas: N/A
+  Alliance Quest: N/A
 
 Yellowjacket: Yellowjacket is deceptively strong. His specials are also annoying, as they trigger rather quickly and also leave you debuffed with a (non-Willpower triggering) sting. This sting either takes a portion of your healt when you trigger a special, or stuns you when it get's removed. So, in the end, simply decide which means more to you. 
+  Quests: Okay
+  Arenas: Good, but irritating to fight
+  Alliance Quest: Better options exist
+
+Black Panther: Black Panther is just your run-of-the-mill brawler, that only really comes into his own once he's been duped. Until then his basic attacks have a chance to inflict some bleed. Once he gets duped, he can stack those bleeds. While the bleed itself isn't enormous, once you've got a couple of stacks going and are able to keep them refreshed, it quickly adds up. However, he suffers from the same issue that most bleed-on-attack heroes: Willpower. His S1 and S2 are standard special attacks that are easy to block or evade entirely - use if you must. Simply save up for his S3, rinse and repeat.
+  Quests: Useful
+  Arenas: Fades away when Willpower becomes prevalent
+  Alliance Quest: Very useful Skill option due to bleed
+
+Black Widow: Probably the most dangerous of the Skill champions. She's fast, can evade, and crits like you wouldn't believe. Her S1 and S2 attacks are more useful than most as they trigger quickly. What makes them shine though, is they buff her with increased Crit rate/damage (not 100% sure which) and Evade. These buffs also start on execution, in other words they're in effect during the S1/2 attack sequence. This can result in a couple of monstrous hits for low level specials. Her S3 is also ridiculously grand. It can do quite a bit of damage, but also has a very good chance to stun the opponent, leaving him/her vulnerable to more enhanced Crit attacks. Due to evade, she isn't that fragile either, so I wouldn't even class her as a glass cannon. Her signature is a bit odd though. Her attacks have a reduced chance to trigger enemy on-attacked abilities (armour, poison, regen etc). This one is difficult to evaluate as that would require you to know when an ability would have been triggered. Still, given the overall usefulness of her specials, a somewhat duddy signature is easy to live with.
+  Quests: Useful
+  Arenas: Intimidating
+  Alliance Quest: Useful
+
+Daredevil (Original & Netflix): The differences between these two are subtle to spot, but so drastic that, in my eyes, I can't see a reason picking Original over Netflix if I ever need to choose. They have the same Specials, which enhance Crit rate and guarantee a stun on critical hits. Both's S1 and S2 are blockable and dodgeable, so I just go for the S3. Both also have an innate chance to perfect block incoming attacks. Here's where Netflix Daredevil differs though: he gets an additional enhancement to his Critical rating, based on his tier and rank. He also has a 5% physical resistance. He has a chance to dodge projectile attacks, whereas Original Daredevil can only do this once his signature has been activated. His attacks also have a good chance of causing armor break which lasts for an extended time. Finally, his signature grants him even more Crit rate whenever he gets debuffed. So, all in all, Original Daredevil has been made obsolete by Netflix Daredevil. I would only use Original in Arenas and if I don't have Netflix available. 
+  Quests: Useful
+  Arenas: Above average
+  Alliance Quest: Better options abound
+
+Elektra: I recently got this hero and haven't had a chance to play with her yet. I believe she specialises in crits and bleed, but I've also heard people complain that she's severely underpowered compared to most other heroes. I'll update this once I learn more (or someone else provides some strategy)
+  Quests: N/A
+  Arenas: N/A
+  Alliance Quest: N/A
+
+Punisher & Winter Soldier: I'm not sure which one came first, but one is definitely a reskin of the other. It's definitely easier to obtain a Winter Soldier than it is a Punisher as the latter is only available from Arena/VS crystals. The only difference between the two is their signatures. Punisher has a chance to ignore a killing blow and be invulnerable for a short period. If you've got active regen, he can actually regain some health and not die from blocking a hit after this buff expires. I severely doubt that he can trigger it a second time even if he's recovered enough health. Maybe there's a cooldown on the ability or it's a once-per-battle ability, but I'm not sure. Winter Soldier's signature got reworked recently. I won't bore you with the old one, other than to say that the current one is infinitely more useful than the previous one. Winter Soldier's critical hits have a chance to power drain the opponent, which is always useful. That's about it though. S1 is useless, as it's blockable and can cause little enough bleed that you'll just enable the opponent to regen more health than the entire attack caused and you've expended your power - thus you'll be in the worse position. S2 is slightly better in the sense that it does moderately good damage, doesn't debuff, but is blockable and dodgeable. S3, however, is a killer. The opponent will get pummeled, shot, and blasted with an RPG, causing good bleed in addition to all the other damage. This can potentially take off up to 40% of the opponent's life bar, including the bleed. Not so much if your opponent's got Willpower, but then you just wait until S3 can finish the opponent off without the bleed. Both champs also trigger Fury relatively frequently, so it also helps to execute S3 when Fury's active.
+  Quests: Solid
+  Arenas: Very useful (Punisher) / useful (Winter Soldier)
+  Alliance Quest: Good (Punisher) / Not so good (Winter Soldier)
+
+Moon Knight: I don't have him. What I do know about him is that he's insanely fast, and he's got some weird thing going on with the moon phase. I can never remember when he does what based on that, probably because I've never played with him to be able to understand it. His S1 causes bleed and triggers quite fast, so it's somewhat easy to catch your opponent off guard. S2 seems to be the standard Skill S2 where the champ does a couple of acrobatic attacks. I've never seen S3 in action.
+  Quests: N/A
+  Arenas: N/A
+  Alliance Quest: N/A
